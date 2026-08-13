@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+>
+<channel>
+<title>セキュリティのアレ</title>
+<item>
+		<title>第313回 「ランダム」って入力できへんねん！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=2351</link>
+		<pubDate>Mon, 10 Aug 2026 11:00:25 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=2351</guid>
+		<comments>https://www.tsujileaks.com/?p=2351#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=2351</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<p>・<a href="https://www.kirin.co.jp/softdrink/kitchen/products/product_detail16.html">ソルティライチ｜商品のこと｜キリン</a><br />
+・<a href="https://are.bocchi-megane.dev/words/ResidentialProxy.html">Residential Proxy — セキュリティのアレまとめ</a><br />
+・<a href="https://www.sophos.com/ja-jp/content/state-of-ransomware">ランサムウェアレポート 2026年版。ソフォスランサムウェアの現状</a><br />
+・<a href="https://coveware.com/2026/07/adverse-cyber-extortions-are-more-common-than-commonly-advised/">Adverse cyber extortions are more common than commonly advised – Coveware</a><br />
+・<a href="https://1password.com/blog/why-ai-generated-patches-still-require-human-review">Off-by-1 Labs Research: AI-generated vulnerability patches require human review | 1Password</a><br />
+・<a href="https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/">ChainDrop: Inside a Self-Propagating npm Worm</a><br />
+・<a href="https://blog.flatt.tech/entry/keyv_compromise">keyv 等 複数著名パッケージへのソフトウェアサプライチェーン攻撃の概要と対応指針 &#8211; GMO Flatt Security Blog</a><br />
+・<a href="https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing">Incident Report: unsanctioned agent behaviour during cyber testing | AISI Work</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2026/08/06/014225">英国AISIの評価中に発生したAIエージェントの権限外行動についてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://www.uha-shop.jp/lp?u=rainbow-ramune">レインボーラムネ｜UHA味覚糖オンラインショップ</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/nasuhiro.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/nasuhiro-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-2352" srcset="https://www.tsujileaks.com/wp-content/uploads/nasuhiro-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nasuhiro.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：どれくらいの梅？新しいステッカー。考えながらのご聴取ありがとうございます！抹消されたアレ。まとめありがとうございます！どっちにパッチ？世の中思う通りにはうまくいかない。何故だろうだけでは防げない。多くの人は正常を知らない。そんなことはないを知らない。色を付けずに見る。ステッカーのコンプについては今回からスタートです。体にも影響出てるねん。脆弱性がこんなに減るのは意外。変化意識しておこう。多要素認証の導入は進んでいるが網羅性に欠けている可能性。検知タイミング違いの暗号化の成功と失敗。長い目で見るとバックアップからの復旧は真ん中程度。要求ぎゃく。やっぱ減ってる。弱毒化。AIによるパッチ作成への評価。それぞれ複数作らせて評価。かなり失敗してるものもあるな。直し方がイマイチ？AIでやることの意義があるのか否か。修正できてるかどうかだけではなく、仕様変わってない？新たな穴ない？という品質に関することへも注意が必要。AIの活用は上司と部下のあるべき姿やと思ってますねん。既視感あるんよなぁ。何回目やっけ？って。令和のワームはこういう形か。今回のやらしさは盗み出す情報の広さ。時間差もあるだろうし、関連性が見えないかもしれない。色々と策は講じられているものの根本的ではない。というよりも人が狙われてる。<br />
+&nbsp;</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| いつもの雑談から | 00:00 |<br />
+| お便りのコーナー | 06:05 |<br />
+| (T) ランサムウェアの現状 2026年版 | 25:55 |<br />
+| (N) フロンティア AI モデルによる脆弱性パッチの生成 | 42:46 |<br />
+| (P) npm パッケージへのソフトウェアサプライチェーン攻撃再び | 57:26 |<br />
+| オススメのアレ | 70:17 |</p>
+<p>&nbsp;</p><p>The post <a href="https://www.tsujileaks.com/?p=2351">第313回 「ランダム」って入力できへんねん！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_260810_obonkobon.mp3" length="36988710" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:16:51</itunes:duration>
+	</item>
+<item>
+		<title>第191回 偽らない偽りもあるんだぜ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1587</link>
+		<pubDate>Mon, 21 Aug 2023 11:00:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=1587</guid>
+		<comments>https://www.tsujileaks.com/?p=1587#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1587</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[<p>【関連記事】</p>
+<p>・<a href="https://www.youtube.com/watch?v=lBE8XYuEqYo">ソシャゲ公式さん、サービス継続に必要な金額を１円単位で公開してしまうwwww &#8211; YouTube</a><br />
+・<a href="https://news.mynavi.jp/techplus/article/techp4877/">放置系スマホRPG「偽りのアリス」、ユーザー最重視の障害対応 [事故対応アワード受賞レポート] | TECH+（テックプラス）</a><br />
+・<a href="https://research.nccgroup.com/2023/08/15/approximately-2000-citrix-netscalers-backdoored-in-mass-exploitation-campaign/">Approximately 2000 Citrix NetScalers backdoored in mass-exploitation campaign | NCC Group Research Blog | Making the world safer and more secure</a><br />
+・<a href="https://www.europol.europa.eu/media-press/newsroom/news/5-arrested-in-poland-for-running-bulletproof-hosting-service-for-cybercrime-gangs">5 arrested in Poland for running bulletproof hosting service for cybercrime gangs | Europol</a><br />
+・<a href="https://www.justice.gov/opa/pr/administrator-bulletproof-webhosting-domain-charged-connection-facilitation-netwalker">Office of Public Affairs | Administrator of ‘Bulletproof’ Webhosting Domain Charged in Connection with Facilitation of NetWalker Ransomware | United States Department of Justice</a><br />
+・<a href="https://www.asahi.com/articles/ASR884RWLR87UTIL040.html">初の国際サイバー捜査、インドネシア人逮捕 世界的詐欺ツールを使用：朝日新聞デジタル</a><br />
+・<a href="https://io.cyberdefense.jp/entry/16Shop/">16Shop関係者逮捕の舞台裏</a><br />
+・<a href="https://www.bleepingcomputer.com/news/security/file-sharing-site-anonfiles-shuts-down-due-to-overwhelming-abuse/">File sharing site Anonfiles shuts down due to overwhelming abuse</a><br />
+・<a href="https://www.recordedfuture.com/threat-actors-leverage-internet-services-to-enhance-data-theft-and-weaken-security-defenses">Threat Actors Leverage Internet Services to Enhance Data Theft and Weaken Security Defenses | Recorded Future</a><br />
+・<a href="https://www.youtube.com/watch?v=eUdmON7OPXM">Travis Scott &#8211; HYAENA &#8211; YouTube</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/bughuntjpg.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/bughuntjpg-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1588" srcset="https://www.tsujileaks.com/wp-content/uploads/bughuntjpg-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/bughuntjpg-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/bughuntjpg-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/bughuntjpg.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>死にかけたことあるくらい好きなアレ。覚えてますか？チー牛速報さんありがとうございます！愛されているサービス。お風呂のお供に！おかきやあられが好きなんですよ。立場や見る角度によって答えが変わる。取り上げるタイミングがなかった脆弱性。雲行きが変わったので紹介。KEVにもすぐに掲載。微妙に違う404なので分かる。脆弱性の対処はしていたけど、侵害の可能性を考慮できていなかった。3日から4日以内に対処していても間に合わない問題。まだ現在進行形。注意喚起の仕方も場合によってはスコープを広めないといけないですね。防弾ホスティングの管理者が逮捕。ポーランドには「Bolek and Lolek」っていうアニメがあったんですよね。別の犯罪との繋がり。長らく点だったものが繋がった。「はい」。同じ目的のために同じ方向を向いてできる限りの協力ができるといいな。AnonFilesはお馴染みかお馴染みで無いか。お気持ち（？）表明の後の閉鎖。理由と影響。このドメイン欲しい。今後のリークの経路。どの正規のサービスがマルウェアによく使われているか。久々のニューアルバム。わたくしのイメージは全く伝わらんことがあるんですよ。</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| 1 | いつもの雑談から                             | 00:00 |<br />
+| 2 | お便りのコーナー                             | 08:13 |<br />
+| 3 | (N) Citrix ADC の脆弱性 CVE-2023-3519 の話 | 18:31 |<br />
+| 4 | (T) 点と点をつないで線にする話                    | 36:05 |<br />
+| 5 | (P) Anonfiles がサービス終了した話             | 49:06 |<br />
+| 6 | オススメのアレ                              | 60:12 |
+</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2023年08月20日</p><p>The post <a href="https://www.tsujileaks.com/?p=1587">第191回 偽らない偽りもあるんだぜ！スペシャル！</a> first appeared on <a href="https://www.tsujileaks.com">podcast - #セキュリティのアレ</a>.</p>]]></description>
+		<enclosure url="https://www.tsujileaks.com/media/are_230821_itsuari.mp3" length="30365299" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:03:03</itunes:duration>
+	</item>
+<item>
+		<title>第15回 リスト型攻撃はなくなってないんだ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=491</link>
+		<pubDate>Tue, 26 Jun 2018 14:33:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=491</guid>
+		<comments>https://www.tsujileaks.com/?p=491#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=491</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description><![CDATA[]]></description>
+		<enclosure url="http://tsujileaks.com/media/are_180626_jnbh.m4a" length="5242880" type="audio/x-m4a" />
+		<itunes:episodeType>full</itunes:episodeType>
+	</item>
+</channel></rss>
