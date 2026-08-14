@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>セキュリティのアレ 過去回アーカイブ(非公式)</title>
+    <link>https://www.tsujileaks.com/</link>
+    <description>非公式アーカイブ。生成: 2026-08-13 / fan repo commit: abc1234</description>
+    <item>
+      <title>第1回 セキュリティのポッドキャスト(仮)</title>
+      <link>https://www.tsujileaks.com/?p=10</link>
+      <guid isPermaLink="false">http://www.tsujileaks.com/?p=10</guid>
+      <pubDate>Mon, 21 Feb 2011 01:46:00 +0900</pubDate>
+      <enclosure url="https://www.tsujileaks.com/media/security01.m4a" type="audio/mp4" length="16323195" />
+      <description>元記事: https://www.tsujileaks.com/?p=10</description>
+      <source url="https://www.tsujileaks.com/?feed=podcast">セキュリティのアレ</source>
+    </item>
+    <item>
+      <title>【音源リンク切れ】第3回 のアレ &amp; こレ</title>
+      <link>https://www.tsujileaks.com/?p=30</link>
+      <guid isPermaLink="false">http://www.tsujileaks.com/?p=30</guid>
+      <pubDate>Mon, 18 Apr 2011 22:30:00 +0900</pubDate>
+      <enclosure url="https://www.tsujileaks.com/media/tsujileaks03.m4a" type="audio/mp4" />
+      <description>元記事: https://www.tsujileaks.com/?p=30
+音源リンク切れを検出(2026-08-13T14:00:00+09:00 時点): https://www.tsujileaks.com/media/tsujileaks03.m4a は取得できませんでした。
+元の配信 URL(http://www.tsujileaks.com/media/tsujileaks03.m4a)でも取得できませんでした。</description>
+      <source url="https://www.tsujileaks.com/?feed=podcast">セキュリティのアレ</source>
+    </item>
+  </channel>
+</rss>
