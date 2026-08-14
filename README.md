@@ -6,7 +6,7 @@
 
 ## ツールを作った背景
 
-ポッドキャスト[「セキュリティのアレ」](https://www.tsujileaks.com/)の公式RSSフィードは、最新300件の配信となっています（2026/08/13現在）。
+ポッドキャスト「[セキュリティのアレ](https://www.tsujileaks.com/)」の公式RSSフィードは、最新300件の配信となっています（2026/08/13現在）。
 
 そのため、最新300件に含まれない過去回はRSSフィードから取得できず、各種ポッドキャストプレイヤーでは再生できません。
 
@@ -32,7 +32,7 @@
 
 ## 生成されるフィードの元データについて
 
-[セキュリティのアレまとめ](https://are.bocchi-megane.dev/) 様が公開いただいている、全放送回のリスト（CSVファイル）が元データです。作成・公開していただき、ありがとうございます。
+[セキュリティのアレまとめ](https://are.bocchi-megane.dev/) 様が公開いただいている、全放送回のリスト（CSVファイル）が元データです。作成・公開していただき、ありがとうございます。  
 [BerandaMegane/Security-no-ARE-words: セキュリティのアレまとめ](https://github.com/BerandaMegane/Security-no-ARE-words)
 
 この全放送回のリストを利用し、実行時点の「不足している過去回」を特定しています。
@@ -115,3 +115,8 @@ GitHub Gistの場合、secret gistとして、 `archive.xml` のファイルの�
    - OpenSpecを使う場合、Node.jsが必要です
       - 開発で使ったNode.jsのバージョンは `mise.toml` を参照してください
 - Pythonのテストコードは `python -m unittest discover -s tests` で実行できます
+
+
+## 関係するブログ
+
+- [#セキュリティのアレ でRSS配信されなくなった過去回を、自分用に聴けるようにするRSSフィード生成ツールをPythonで作ってみた - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2026/08/14/231239)

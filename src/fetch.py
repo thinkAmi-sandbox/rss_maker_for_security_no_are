@@ -16,7 +16,7 @@ from typing import Callable, Optional
 FEED_URL = "https://www.tsujileaks.com/?feed=podcast"
 USER_AGENT = (
     "security-no-are-archive-feed-generator"
-    " (+https://github.com/thinkAmi/rss_maker_for_security_no_are)"
+    " (+https://github.com/thinkAmi-sandbox/rss_maker_for_security_no_are)"
 )
 REQUEST_INTERVAL_SECONDS = 1.5
 TIMEOUT_SECONDS = 30

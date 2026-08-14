@@ -24,7 +24,7 @@ OFFICIAL_SITE = "https://www.tsujileaks.com/"
 # 出典宣言(<source>)のテキスト。公式フィードの channel title と同一の、
 # 出典フィード側の番組名。アーカイブ自身の channel title とは別物
 OFFICIAL_TITLE = "セキュリティのアレ"
-REPO_URL = "https://github.com/thinkAmi/rss_maker_for_security_no_are"
+REPO_URL = "https://github.com/thinkAmi-sandbox/rss_maker_for_security_no_are"
 FAN_REPO_URL = "https://github.com/BerandaMegane/Security-no-ARE-words"
 
 
